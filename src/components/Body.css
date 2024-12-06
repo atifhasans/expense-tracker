@@ -1,0 +1,24 @@
+/* Body Styles */
+.body-form {
+    background: #ffffff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .body-form input, .body-form select, .body-form button {
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    width: 100%;
+  }
+  .body-form button {
+    background: #007bff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .body-form button:hover {
+    background: #0056b3;
+  }
+  
